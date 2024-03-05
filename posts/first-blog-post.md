@@ -13,3 +13,4 @@ Hello, world!
 _underline_
 
 **bold**
+![standing in front of the gates of the damned](/w01s1/01.jpg)
