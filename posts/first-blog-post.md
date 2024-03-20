@@ -37,4 +37,5 @@ When I first swapped footages with my classmate, I was shocked at how different 
 ![storyboard 1](/W01S1/Storyboard%202.jpg)
 ![storyboard 1](/W01S1/Storyboard%203.jpg)
 ![storyboard 1](/W01S1/Storyboard%204.jpg)
+
 These are the storyboards for my self portrait video. I will maintain continuity as I will have the recurring image of the face that morphs over time, showing its linear progression, while intercut with other objects. I will then maintain discontinuity, as at the climax of the video the face starts changing rapidly in a non-linear manner. I make this change to show to the audience how identity is not a simple concept such as the drawing of a face, but it is many faces that combine together to form a greater identity. The jarring cuts are also meant to surprise and agitate the audience, as this part of identity is more angry and uncontrollable, compared to the very controlled and calm face in the first part of the video.
