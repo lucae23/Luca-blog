@@ -56,3 +56,8 @@ An editing idea I came up with that I had not thought of before, was how the sho
 ### https://vimeo.com/927370474?share=copy
 ## Week 3 Session 2
 ### Final video for assignment 1: https://youtu.be/0rkaLuXz0xg
+## Week 4 Session 1
+For the task of the black squares, I quickly thought of the most simple, and consise choices, and recorded them. This included a simple straight line for the order category, a very obvious but effective choice. For many of my designs I used design thinking, with meant empathizing with the audience and thinking how my use of squares could evoke the feeling that was being portrayed, and an example of this was in the congested category. This design was that I put all four black squares cramped into the corner, as it creates a claustrophic feeling because of all the blank space that could be used, hopefully making the audience have the feeling of congestion too. 
+![Working with black squares](/W01S1/Screenshot.png)
+For some of the designs I thought outside of the box, and came up with alternate takes on the categorys, for instance with order, instead of an ordered design of squares, I depicted one square with a speech bubble, yelling an 'order' at another square. This was fun as I was able to be creative and come up with unique and interesting designs, however I found this required much more thinking and planning, which takes away from quickly jotting ideas, and that the messages were also not as clear, and so I had to 'kill the darlings' and pick the most consise and effective designs for my final choices.
+![Final black squares](/W01S1/blacksquares.png)
