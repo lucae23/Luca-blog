@@ -66,3 +66,29 @@ For some of the designs I thought outside of the box, and came up with alternate
 I picked two prompts I was interested in; dreams and home, and brainstormed all the different concepts I could think of for both.
 ![brainstorming](/W01S1/mindmap.jpg)
 For all the potential icon designs I had a website navigation system in mind, particularly on a laptop however a tablet or phone could also be appropriate. I also had in mind my audience, who are young and prone to quickly identify the icons, and who would be knowledgable to be reliant on the icons to direct them around the site. They would be able to relate to modern icons, particularly those inspired by emojis, and be intelligent to identify more abstract ideas presented in the icons. Some of the more abstract ideas would be the subconsious, which I could attempt to depict as an icon. However a majority of the ideas were those objects closely related to the prompt, such as a bed and brain with dreams, or a house and tv with a home.
+## Week 4 Session 2
+### Thumbnail Sketch 1
+![house sketches](/W01S1/almosthouse.png)
+I did 20 thumbnail sketches of a 'house' in illustrator, that all had the similiar design of a box and a roof, and often a door. I think the most effective one is the house on the very bottom to the left, as it is one of the most simple, yet is so clear that it's a house, with all the shapes in the design being proportinate with eachother.
+![house sketches](/W01S1/houses.png)
+### Thumbnail Sketch 2
+![sketches](/W01S1/sketches.jpg)
+For these sketches I decided to handdraw them instead of using illustrator, because it is easier for me at this stage. 
+
+I think the best design for bed is the 4th one. 
+
+I think the best design for the house is 2nd one.
+
+I think the best design for the fridge is the 1st one.
+
+I think the best design for the tv is the 2nd one.
+
+I think the best design for the toilet is the 3rd one.
+
+I think the best design for the garage is the 1st one.
+
+I think the best design for the hobby is the game controller.
+
+I think the best design for the garden one is the 1st flower.
+
+I think the best design for the pet is the cat face.
