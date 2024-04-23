@@ -65,7 +65,7 @@ For some of the designs I thought outside of the box, and came up with alternate
 ### Brainstorming
 I picked two prompts I was interested in; dreams and home, and brainstormed all the different concepts I could think of for both.
 ![brainstorming](/W01S1/mindmap.jpg)
-For all the potential icon designs I had a website navigation system in mind, particularly on a laptop however a tablet or phone could also be appropriate. I also had in mind my audience, who are young and prone to quickly identify the icons, and who would be knowledgable to be reliant on the icons to direct them around the site. They would be able to relate to modern icons, particularly those inspired by emojis, and be intelligent to identify more abstract ideas presented in the icons. Some of the more abstract ideas would be the subconsious, which I could attempt to depict as an icon. However a majority of the ideas were those objects closely related to the prompt, such as a bed and brain with dreams, or a house and tv with a home.
+For all the potential icon designs I had a website navigation system in mind, particularly on a laptop however a tablet or phone could also be appropriate. The website would be navigating different elements of a home, such as a site like IKEA that sells all different products related to a home. I also had in mind my audience, who are young and prone to quickly identify the icons, and who would be knowledgable to be reliant on the icons to direct them around the site. They would be able to relate to modern icons, particularly those inspired by emojis, and be intelligent to identify more abstract ideas presented in the icons. They wouldn't be too young however, as they are living out of home, and so my icons could not be too modern, for instance for hobby I used a retro controller, avoiding something to modern like a VR headset. Some of the more abstract ideas would be the subconsious, which I could attempt to depict as an icon. However a majority of the ideas were those objects closely related to the prompt, such as a bed and brain with dreams, or a house and tv with a home.
 ## Week 4 Session 2
 ### Thumbnail Sketch 1
 ![house sketches](/W01S1/almosthouse.png)
@@ -92,3 +92,20 @@ I think the best design for the hobby is the game controller. This is because th
 I think the best design for the garden one is the 1st flower. The petals are curvy again conveying friendlyness, as opposed to the less organic designs that have jagged edges, and for the topic 'garden', it should look as organic as it can be.
 
 I think the best design for the pet is the cat face. The dynamics of the circle face and triangle ears encapture the feelings we have about our pets, and the design is the most clear, as opposed to a bone or collar which can be interpreted much differently.
+## Week 5 Session 1
+### Pen Tool Games
+In class we completed some games and challenges, deisgned to improve our pen skills. This was the Bezier game and two challenges. It helped me understand how to curve lines, and use the option key, which proved extremly useful when it came to designing my icons, as I hadn't used illustrator before.
+![pen tool](/W01S1/Bezier.png)
+![pen tool](/W01S1/EPRS.png)
+![pen tool](/W01S1/Rabbit.png)
+### Icon Designs
+The following are my desings for four of my icons, they go from monochromatic, and then a different colour is added for each design. I think for most of them the more monochromatic and less coloured designs were more effective. This is due to some of the icons being such simple icons, such as a fridge, which really needs no colour.
+I think for the bed the red one was the most effective, this is because I feel like red is probably more synonymous with bedsheets than blue. Monochromatic was also better for the blue, as I could have added more colours with the pillowsm but it wasn't necessary to define the object as being a bed.
+For the TV I went for monochromatic also, which is because I had such strong uses of shade with the white and black, I didn't think I needed any more colours in the mix.
+Finally for the controller, I went with the most colourful design, as the colours were simply the buttons, so It wasn't too distracting regardless.
+![icons](/W01S1/Designs.png)
+## Week 5 Session 2
+I finalised my icons, considering my audience and their needs. Some things I edited where making some icons less broad, for instance I changed the garage icon to a car icon. As garage doesn't just represent a place to hold a car, it can mean a storage or a gym space too. This means my audience can easily identify this signifies cars and home transport, whereas the garage may not have been as clear. The car is also a much stronger and clearer image.
+![cardesign](/W01S1/car vs garage.png)
+Here are my final designs:
+![finaldesigns](/W01S1/final designs.png)
