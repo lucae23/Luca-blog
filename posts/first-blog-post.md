@@ -1,6 +1,6 @@
 ---
-title: Enter Semester 1 BLOG
-published_at: 2022-11-04T15:00:00.000Z
+title: Week 1 Session 1
+published_at: 2024-03-06
 ---
 
 Hello, world!
