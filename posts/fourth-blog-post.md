@@ -1,0 +1,8 @@
+---
+title: Week 2 Session 2
+published_at: 2024-03-15
+---
+
+A key moment for my video is in the climax, when the cuts become jarring, entering a montage state, and the drums become very complex, loud and angry. I want this moment to convey the stronger emotions that are attached to me as part of my identity, such as anger, frustratian and confusion, and so I hope the combination of the fast cuts and loud sounds achieve this. The rhythm of the drumns will be thrashing and unpredictable, to seem even more jarring when juxtaposed with the strong funky rhythm leading up. I will reinforce the anger of the audio by making fast jump cuts, that follows a non-linear chronology, further juxtaposing the first part of the video. This will utilize the principle of discontinuity, as I am not trying to show a linear progession of the drawing of the face anymore, but show the audience how the face is constantly changing and is not static.
+## https://vimeo.com/925746922?share=copy
+This is an editing experiment we did in class, where I took another groups video and added my own sound onto it. I thought that there was a humorous tone to their film, as it is of someone skipping class, and they taunt their teacher. So I went on to RMITs sound library and picked out humorous sound effects. I think I was succesful at amplifying the comedy, as the lines 'school's out' sounds utterly ridiculous, and the raspberry at the end is quite funny. This experiment also was useful as I learned about exporting sound effects and adding them into the timeline, which is useful for my assignment.
