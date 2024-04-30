@@ -3,12 +3,12 @@ title: Week 4 Session 1
 published_at: 2024-04-9
 ---
 
-### Black squares task
+#### Black squares task
 For the task of the black squares, I quickly thought of the most simple, and consise choices, and recorded them. This included a simple straight line for the order category, a very obvious but effective choice. For many of my designs I used design thinking, with meant empathizing with the audience and thinking how my use of squares could evoke the feeling that was being portrayed, and an example of this was in the congested category. This design was that I put all four black squares cramped into the corner, as it creates a claustrophic feeling because of all the blank space that could be used, hopefully making the audience have the feeling of congestion too. 
 ![Working with black squares](/W01S1/Screenshot.jpg)
 For some of the designs I thought outside of the box, and came up with alternate takes on the categorys, for instance with order, instead of an ordered design of squares, I depicted one square with a speech bubble, yelling an 'order' at another square. This was fun as I was able to be creative and come up with unique and interesting designs, however I found this required much more thinking and planning, which takes away from quickly jotting ideas, and that the messages were also not as clear, and so I had to 'kill the darlings' and pick the most consise and effective designs for my final choices.
 ![Final black squares](/W01S1/blacksquares.png)
-### Brainstorming
+#### Brainstorming
 I picked two prompts I was interested in; dreams and home, and brainstormed all the different concepts I could think of for both.
 ![brainstorming](/W01S1/mindmap.jpg)
 For all the potential icon designs I had a website navigation system in mind, particularly on a laptop however a tablet or phone could also be appropriate. The website would be navigating different elements of a home, such as a site like IKEA that sells all different products related to a home. I also had in mind my audience, who are young and prone to quickly identify the icons, and who would be knowledgable to be reliant on the icons to direct them around the site. They would be able to relate to modern icons, particularly those inspired by emojis, and be intelligent to identify more abstract ideas presented in the icons. They wouldn't be too young however, as they are living out of home, and so my icons could not be too modern, for instance for hobby I used a retro controller, avoiding something to modern like a VR headset. Some of the more abstract ideas would be the subconsious, which I could attempt to depict as an icon. However a majority of the ideas were those objects closely related to the prompt, such as a bed and brain with dreams, or a house and tv with a home.

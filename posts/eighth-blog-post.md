@@ -3,11 +3,12 @@ title: Week 4 Session 2
 published_at: 2024-04-11
 ---
 
-### Thumbnail Sketch 1
+#### Thumbnail Sketch 1
 ![house sketches](/W01S1/almosthouse.png)
 I did 20 thumbnail sketches of a 'house' in illustrator, that all had the similiar design of a box and a roof, and often a door. I think the most effective one is the house on the very bottom to the left, as it is one of the most simple, yet is so clear that it's a house, with all the shapes in the design being proportinate with eachother.
 ![house sketches](/W01S1/houses.png)
-### Thumbnail Sketch 2
+
+#### Thumbnail Sketch 2
 ![sketches](/W01S1/sketches.JPG)
 For these sketches I decided to handdraw them instead of using illustrator, because it is easier for me at this stage. 
 
