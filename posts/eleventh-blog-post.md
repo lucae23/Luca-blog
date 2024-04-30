@@ -8,4 +8,4 @@ In this session I considered sound effects that would fit with my icon designs, 
 
 I also finalised the second images for the icons I was struggling with movement for, such as the house and flower. For both icons, I couldn't think of a way that they'd be interactive like the other icons, so instead of having a part of the object move, I decided to add more objects, such as the bee appearing on the flower, and the smoke from the chimney. Whilst these designs aren't as immersive as some others, they still looked pretty good.
 #### second image for flower icon 
-![finaldesigns](/W01S1/finaldesigns.png)
+![bee](/W01S1/bee.png)
