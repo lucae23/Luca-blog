@@ -2,6 +2,8 @@
 title: Week 6 Session 2
 published_at: 2024-04-30
 ---
+#### Final statement
+My 
 #### My sources for the sounds I used from RMITs pro sound library are below:
 -BedSheetMovement S08HS.110, Pro Sound Effects, https://library-prosoundeffects-com.ap1.proxy.openathens.net/track/929858
 
