@@ -19,6 +19,7 @@ After I designed these first icons I moved onto the next ones. I was able to qui
 
 ![two cat designs](/W01S1/kats.png)
 
+#### Colours
 For all my designs I honed in on a colour pallette that I got through experimentation and the website Coolers. It features a split complementary scolour scheme of yellow, red and green. The red and yellow are dominant, and I chose them because of their warmth and playfullness, all the icons look inviting and attractive. I also picked primary colours, as so many of my objects were white, like the fridge, toilet and controller, and so I thought it was essential to add a lot of colour to balance out the greys.
 
 The flower icon was also difficult as it added the whole new colour of green, which stuck out like a sore thumb amongst the other icons. I tried thinking of a way to show the flower without the green colour, testing out if I could replace the stem with a red plant pot. I realised that green was a very important colour for this icon, due to its association with nature, and that I had to include it, even if it did stand out, as it made the icon more clear for my audience. To help with this I added green into some of the other icons, such as changing the cats eyes from black to green. This helped intergrate the green with the overall composition, and it surprisingly enhanced some of the other icons, like the cat.
