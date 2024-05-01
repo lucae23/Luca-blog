@@ -3,7 +3,9 @@ title: Week 6 Session 2
 published_at: 2024-04-30
 ---
 #### Final statement
-My 
+My icons came out mostly successful. I am proud at my improvement using the pen tool, which I hadn't used before this, evem though it took some trial and error to get some of the icons done. The use of the shadows was inspired by the examples that we were shown in class, and I thought it was a great way to give the icons more depth and ground them, without overcrowding the icons with shapes. 
+
+The ico
 #### My sources for the sounds I used from RMITs pro sound library are below:
 -BedSheetMovement S08HS.110, Pro Sound Effects, https://library-prosoundeffects-com.ap1.proxy.openathens.net/track/929858
 
