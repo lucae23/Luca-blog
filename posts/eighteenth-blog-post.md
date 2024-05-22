@@ -21,33 +21,57 @@ Overall I know I could've done better with this project, I definitely put a lot 
 
 ##### 3D Models
 -Double Door, Mhedi Shahsavan, CC Attribution, https://sketchfab.com/3d-models/double-door-1e11be3174194c9f912b7a5998533c24
+
 -Classroom, Pino_156, CC Attribution, https://sketchfab.com/3d-models/classroom-d4553cc2008242849214e4cbf8ad8551
+
 -Industrial Locker, Anfossi Valentin, Free Standard, https://sketchfab.com/3d-models/industrial-locker-1938d4d4c5bc440390159c7eb301c407
+
 -Exit Sign, ZachWilkins1997, CC Attribution, https://sketchfab.com/3d-models/exit-sign-8b3950f86df14ec291224f6c868609c3
+
 -City, Mateusz Wolinski, CC Attribution, https://sketchfab.com/3d-models/city-1f50f0d6ec5a493d8e91d7db1106b324
+
 -Oak Trees, DJMaesen, CC Attribution, https://sketchfab.com/3d-models/oak-trees-d841c3bcc5324daebee50f45619e05fc
+
 -Simple Tree, MaxLeburo, Free Standard, https://sketchfab.com/3d-models/simple-tree-a3f4e00ecc384140a452abe91021aa0f
+
 -Flower, tojamerlin, CC Attribution, https://sketchfab.com/3d-models/flower-0fa50cf622f44f2ba59eff6c11cb8fbd
+
 -Wooden Double Hung Window, Marsy, CC Attribution, https://sketchfab.com/3d-models/wooden-double-hung-window-572f866f92664f6cb9ba8ebffa4ca803
+
 -White Board School Stationary, Mhedi Shahsavan, CC Attribution, https://sketchfab.com/3d-models/white-board-school-stationery-762a66be91af449292cff910bfacece6
+
 -Apple, fredfroehlich, CC Attribution, https://sketchfab.com/3d-models/apple-152ca55383b2491e816f5ed5ac127677
+
 -Chalkboard, hellfa, CC Attribution, https://sketchfab.com/3d-models/chalkboard-84c2350e2e54442ea4b7066014759e97
+
 -Earl's Hill Hillort, Pontesbury, Shropshire, Mark Walters, CC Attribution, https://sketchfab.com/3d-models/earls-hill-hillort-pontesbury-shropshire-23baea2575574f39bd34ff2bb006c6c9
+
 -Portal, Viktoriia, CC Attribution, https://sketchfab.com/3d-models/portal-60e5d5f13758453298c802459b2d5b1c
+
 -School Building, swjeta, CC Attribution, https://sketchfab.com/3d-models/school-building-d34ac09a3ca544df999485c4b311abcc
+
 -Fern Nephrolepis, NPS3, CC Attribution, https://sketchfab.com/3d-models/fern-nephrolepis-ddf35cd017174a2d83bb90e7b47e651c
+
 -Round Mossy Rock, axolite, CC Attribution, https://sketchfab.com/3d-models/round-mossy-rock-699178a2773f4903bed018b198088f06
+
 -Cork Board, reessouchoux123, CC Attribution, https://sketchfab.com/3d-models/cork-board-fc7975cbc2dd4c41a39d1a7ff202b01b
 
 ##### Sounds
 -DroneAlien BW.59877, Pro Sound Effects, https://library-prosoundeffects-com.ap1.proxy.openathens.net/track/7111562
+
 -BirdAmbience S08AN.11, Pro Sound Effects, https://library-prosoundeffects-com.ap1.proxy.openathens.net/track/938184
+
 -FootstepsWood BW.8406, Pro Sound Effects, https://library-prosoundeffects-com.ap1.proxy.openathens.net/track/7118291
+
 -Away, Meydän, FreeMusicArchive, https://freemusicarchive.org/music/Meydan/Ambient_1860/Away_1569/
+
 -AMBUrbn, Marcel Gnauk, 99Sounds, https://99sounds.org/city-sounds/
+
 -AMBUrbn_Distance City Ambience, Marcel Gnauk, 99 Sounds, https://99sounds.org/city-sounds/
 
 ##### Textures
 -FS013_Sunset, Render Knight, Fantasy Skybox FREE, AssetStoreUnity, https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
 -Brick 04 - 8K Scan, abowen3D, RenderHub, https://www.renderhub.com/abowen3d/brick-04-8k-scan1
+
 -Plaster PBR Texture, Nudelkopf, RenderHub, https://www.renderhub.com/nudelkopf/plaster-pbr-material
