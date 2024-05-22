@@ -15,3 +15,4 @@ My project was progressing as lockers on one side of the hall, and windows into 
 
 I managed to complete the structure of my enviroment, copying the classroom and hallway three times, so it is one long space. My design is very effective at leading the player through the project, as I utilise many elements of space. This includes depth and plane, as the walls are long planes, that extend forward creating depth, inviting players to progress forward through the hallway, to reach the end of the space. I also use thresholds in my space. This was partly a problem-solving idea as light wasn't rendering from a certain distance, so walls in the hallway stopped this, however it also gives the player a chance to have break from the long, deep halls, to look out in the environment outside, and let the hallways change texture.
 ![structure](/W01S1/structure.png)
+![hall](/W01S1/hall.png)
