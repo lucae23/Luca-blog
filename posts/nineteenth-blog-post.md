@@ -24,3 +24,48 @@ I chose to depict my interests through objects and spaces, such as music, drums,
 
 ##### What were the primary aesthetic choices that you made to express those ideas in your work?
 To show the happy, upbeat parts of myself, the mise-en-scene was bright and colourful, showing a large array of differnent objects, from the colourful pages of my comics to the shiny lamp on my desk. The climactic parts of the video were dispersed with shots of blackness, a clear sign of darkness, but the cuts of the faces lacked any colour, which I wish I changed looking back, as many different colours would have enhanced my intention of showing the many aspects of my personality.
+
+#### Assignment 2
+
+##### How would you summarise your idea behind the suite of icons, and why did you choose the theme that you did?
+
+My idea was a home, and the components that make up a home, from the physical house, the sources of entertainment within, pets, toilets and others. I picked this one at first because I felt it was the easiest to generate a range of icons, that would be very different although connected by a broader theme, for instance some of the icons were very random like a controller or cat, yet they still fit. I also chose this theme as it was very personal, the objects all are very connnected with day to day life, and this excited me as I wanted to take such commonplace images and make them my own.
+
+##### Did you iterate through a series of approaches before settling on one? What changed across those iterations, and why did you choose the one that you ended up with?
+For a majority of my icons, such as the house and bed, pretty much the first icons I sketched down ended up looking like the final product, as immediatly for these icons I thought of an idea that was so simple yet effective, so there ended up being no reason to really change. However some icons went though drastic changes, completly changing the icon itself. An example was my garage sketches, which after I realised didn't look good in Illustrator, changed to a car, which was a supremely better looking option and not as broad as garage.
+
+##### How did you translate your thumbnail sketches into the final flat designs in Illustrator? Was anything lost in that translation, or gained?
+I simply just made the basic shapes I had sketched down, smoothed the edges and went to work with the specifics. Not much was lost in the translation, and if there were things lost, so many more elements were gained, such as the fridge and toilet icons which took a new life after the translation.
+
+##### How did you use colour to create a sense of unity and visual interest in the icons? Why did you choose the palette that you did?
+I picked a restricted colour pallete of yellow, red and green to create a sense of unity with my icons. I chose this palette as the strong primary colours of yellow and red were extremly eye catching, and created an inviting, warm emotion, which was perfect for the personal subject matter of home.
+
+##### How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?
+I picked all sounds that would occur with the different icons in real life, with some matching exactly with the action of the object, such as a click sound for buttons being pressed. The sounds were all meant to sound friendly and inviting to match the colourful icons, for instance the car beep sound was a more comical beep, as I didn't want a real jarring, angry beep sound.
+
+##### How did you translate the prompt that you chose from an abstract idea to a set of concrete visual designs?
+I took my abstract idea of a home, and considered all the physical components that made up a 'home'. I then wrote down all the different objects I could think of, which was a lot, and picked out the 8 objects that provided the most effective, interesting and dynamic representations of the prompt.
+
+#### Assignment 3
+
+##### How important was a working prototype to your design process? What did it offer that process?
+A working prototype was helpful at figuring out and planning the dimensions of the space, meaning I could adjust the height of my player, and get an understanding of how much room I need to give the players. However it wasn't overly important as a lot of my building was done outside of my original plan. Although this meant the prototype wasn't too useful, it was partly a mistake by me as I didn't put enough effort into my prototype, which meant a lot of my build was made through experiments and trial and errors.
+
+##### How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?
+It was obviously harder. When making a two-dimensional work you only ever see it in one angle, so you always know exactly how your changes affect the work, however with three-dimensional work, sometimes a chnage appears good, but when looking from a different perspective it wasn't that good of a change. An example is with lighting, as sometimes I would set a light to a certain angle that was best for one object, but another object then ended up looking worse. 
+
+However working in a three-dimensional medium gave more oppurtunities as well, as there were so many more aspects that I could utulise to dictate the audiences experience, for example the numerous spaces within my build, from the classrooms to the natural environment outside. With every space I could amplify or change the experience of my viewer, which can't be done as drastically in a two-dimensional medium.
+
+##### What was the role of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?
+The camera in Assignment 3 was the eyes of my audience, wherever it faced was the screen my audience would be viewing. It was similiar with the camera in Assignment 1, as it's purpose was to show the audience a visual I had created in order to convey something about myself. The difference was that unlike the fixed camera of Assignment 1, which showed only the shots I had filmed, the camera in Assignment 3 could be manipulated by the audience to look wherever they wanted.
+
+##### How did you use sound in your project, and how was this similar to and different from your use of sound in Assignments 1 and 2?
+I used sound in many different ways, the first way was adding footstep sound effects into the build, so when the player moved, footsteps could be heard, which was meant to materialize the environment the player inhabits. The second way was to add sound effects like birds chirping and kids playing, which were there to materialize the world, but also to create emotion, for example the birds chirping intended to convey sweet and pleasant feelings. The last way was adding a soundtrack, which was there to simply add emotion, as I picked a somber song to enhance the mood I wanted my audience to feel. 
+
+This was different from Assignment 2, as those sounds weren't aimed to affect emotion, but simply to materialize the objects in the icons. It was similiar to Assignment 1 however, as the soundtrack used in my video was deliberatly aimed to create certain feelings in my audience, just how the soundtrack was used in Assignment 3.
+
+##### How did you unify the different elements of your virtual environment under a certain theme or concept? How did your theme or concept evolve over the project’s development?
+I unified the elements of my environment by picking all of my assets with the same emotion in my mind; somberness. This impacted the sad music I picked, the old, grey looking locker objects and the moody warm lighting among many other things. However my concept evolved by the end of the project, and in the last section of my space I wanted to create more feelings, being hope and unease, which impacted the creation of beautiful garden, and a forboding portal.
+
+##### What did you discover through the process of play testing that you wouldn’t have discovered otherwise?
+Playtesting was the best way to problem solve in this project, as I would always figure out the immediate problems so I could go back to fix them in editing mode. Some things I discovered was how light didn't render after a certain distance. This was important as if I didn't discover this, my build would have been greatly compromised as much of the atmospher would have been ruined, so by discovering this through play-testing, I was able to figure out a solution, by creating thresholds.
