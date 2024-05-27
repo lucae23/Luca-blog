@@ -69,3 +69,11 @@ I unified the elements of my environment by picking all of my assets with the sa
 
 ##### What did you discover through the process of play testing that you wouldn’t have discovered otherwise?
 Playtesting was the best way to problem solve in this project, as I would always figure out the immediate problems so I could go back to fix them in editing mode. Some things I discovered was how light didn't render after a certain distance. This was important as if I didn't discover this, my build would have been greatly compromised as much of the atmospher would have been ruined, so by discovering this through play-testing, I was able to figure out a solution, by creating thresholds.
+
+#### Planning
+
+My projects had bright, primary colours, specifically the icons and the mis en scene of my video, so I think it's appropriate for my website to match this aesthetic, using strong colours, especially primary ones. It will also look consistent with my work when it is previewed on the website. Some key words that come to mind are bright, creative, playful, fun, exciting, eccentric and captivating. Due to it's bright colours, there will be a sense of informality too, and to match the strong colours, strong bold text should be applied too, to stand out in the colour.
+
+My key audience will be younger, inclined to modern tastes. They have a proffesional attitude, but not in a traditionally formal way. I want the webpage to jump out and attract the audience, so if someone views it and is turned off by the bight, strong colours, then they are not my target audience, as I don't want to present a stark, formal page.
+
+I want to be able to show the inner workings of my projects, but for this to be only revealed when going over each project, so as to not make the single webpage too long. Maybe when hovering over an icon of a project it could start sliding, revealing my process in making it.
