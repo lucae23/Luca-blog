@@ -77,3 +77,11 @@ My projects had bright, primary colours, specifically the icons and the mis en s
 My key audience will be younger, inclined to modern tastes. They have a proffesional attitude, but not in a traditionally formal way. I want the webpage to jump out and attract the audience, so if someone views it and is turned off by the bight, strong colours, then they are not my target audience, as I don't want to present a stark, formal page.
 
 I want to be able to show the inner workings of my projects, but for this to be only revealed when going over each project, so as to not make the single webpage too long. Maybe when hovering over an icon of a project it could start sliding, revealing my process in making it.
+
+#### Artists Statement Draft
+
+My assignment 1 was a video project, which attempts to create a self portrait through it's visual and sonic elements. I wanted the audience to gain an understanding of my interests, feelings and personality, the way a traditional self portrait presents the creator to an audience. I displayed a sequence of different shots, depicting objects and ideas that represented who I am, and combined it with an original soundtrack performed by me on drums. I wanted the video to be fun and have a strong rhythm, that was then disturbed by moments of suspense, and finally erupting in an explosion of loud sounds and sharp cuts, shocking the audience and inviting them to reasses the beginning of the video.
+
+My assignment 2 was a series of eight interactive icons, displayed on a webpage. Each icon shared a bright, primary colour scheme, aimed to make them look friendly and inviting, and all had a unique sound that played when clicked on, as well as a change in appearance, in order to enhance their interactivity and immersiveness. The icons all related to the theme of 'home', which I interpreted as a space where someone lives and resides, with the icons all meant to represent a certain aspect of ones home, from the physical building to the pets that inhabit a home. I chose this theme as it is personal, and people can strongly identify with the objects depicted in the icons.
+
+My assignment 3 was an explorable 3D environment of a school.
